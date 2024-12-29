@@ -1,0 +1,47 @@
+{
+    "title": "155191844",
+    "title_status": "Active",
+    "parcel_type": "Surface",
+    "parcel_value": "40,532,700.00 CAD",
+    "title_value": "40,532,700.00 CAD",
+    "issued_date": "28 Mar 2022 16:27:59.340",
+    "last_amendment_date": "28 Mar 2022 16:28:02.090",
+    "municipality": "RM OF LOMOND NO. 037",
+    "previous_title_or_abstract": "138931094",
+    "land_description": "Blk/Par C Plan No 96R49207 Extension 0",
+    "registered_interests": [
+        {
+            "interest_id": "193465367",
+            "interest_type": "CNV Caveat",
+            "value": "N/A",
+            "registration_date": "11 Apr 1957 01:06:20",
+            "interest_register_amendment_date": "N/A",
+            "interest_assignment_date": "20 Dec 2017 09:20:57",
+            "interest_scheduled_expiry_date": "N/A",
+            "expiry_date": "N/A",
+            "holder": {
+                "name": "Whitecap Resources Inc.",
+                "address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "client_number": "126791691"
+            },
+            "int_register": "101077376",
+            "converted_instrument": "FN3980"
+        },
+        {
+            "interest_id": "193465378",
+            "interest_type": "CNV Easement",
+            "value": "N/A",
+            "registration_date": "12 Aug 1957 01:21:08",
+            "interest_register_amendment_date": "N/A",
+            "interest_assignment_date": "N/A",
+            "interest_scheduled_expiry_date": "N/A",
+            "expiry_date": "N/A",
+            "holder": {
+                "name": "Trans-Prairie Pipelines Ltd.",
+                "address": "N/A, Saskatchewan, Canada",
+                "client_number": "102244621"
+            },
+            "int_register": "101077376"
+        }
+    ]
+}
