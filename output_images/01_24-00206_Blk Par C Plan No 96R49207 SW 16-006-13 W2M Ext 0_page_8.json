@@ -1,0 +1,66 @@
+{
+    "Holder": {
+        "Name": "Whitecap Resources Inc.",
+        "Address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+        "Client_Number": "126791691"
+    },
+    "Interests": [
+        {
+            "Interest_Number": "193465334",
+            "Entity": "CNV Water Corporation",
+            "Notice": {
+                "Value": "N/A",
+                "Registered_Date": "30 Sep 1998 02:43:55",
+                "Interest_Register_Amendment_Date": "N/A",
+                "Interest_Assignment_Date": "N/A",
+                "Interest_Scheduled_Expiry_Date": "N/A",
+                "Expiry_Date": "N/A"
+            },
+            "Holder": {
+                "Name": "SASKATCHEWAN WATER CORPORATION",
+                "Address": "200 - 111 FAIRFORD STREET EAST, MOOSE JAW, SK, Canada S6H 1C8",
+                "Client_Number": "100311343"
+            },
+            "Int_Register": "101078142",
+            "Converted_Instruments": "98SE35236"
+        },
+        {
+            "Interest_Number": "193465345",
+            "Entity": "CNV Water Corporation",
+            "Notice": {
+                "Value": "N/A",
+                "Registered_Date": "30 Sep 1998 02:43:55",
+                "Interest_Register_Amendment_Date": "N/A",
+                "Interest_Assignment_Date": "N/A",
+                "Interest_Scheduled_Expiry_Date": "N/A",
+                "Expiry_Date": "N/A"
+            },
+            "Holder": {
+                "Name": "SASKATCHEWAN WATER CORPORATION",
+                "Address": "200 - 111 FAIRFORD STREET EAST, MOOSE JAW, SK, Canada S6H 1C8",
+                "Client_Number": "100311343"
+            },
+            "Int_Register": "101078153",
+            "Converted_Instruments": "98SE35237"
+        },
+        {
+            "Interest_Number": "193465356",
+            "Entity": "CNV Caveat",
+            "Notice": {
+                "Value": "N/A",
+                "Registered_Date": "10 Dec 1999 02:45:37",
+                "Interest_Register_Amendment_Date": "N/A",
+                "Interest_Assignment_Date": "N/A",
+                "Interest_Scheduled_Expiry_Date": "N/A",
+                "Expiry_Date": "N/A"
+            },
+            "Holder": {
+                "Name": "SASKENERGY INCORPORATED",
+                "Address": "700 - 1777 Victoria Avenue, Regina, Saskatchewan, Canada S4P 4K5",
+                "Client_Number": "105206093"
+            },
+            "Int_Register": "101078164",
+            "Converted_Instruments": "99SE37149"
+        }
+    ]
+}

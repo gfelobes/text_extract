@@ -1,0 +1,53 @@
+{
+    "interests": [
+        {
+            "interest_number": "193465233",
+            "type": "CNV Easement",
+            "value": "N/A",
+            "registered": "02 Jun 1977 02:08:45",
+            "holder": {
+                "name": "PLAIN MIDSTREAM CANADA ULC",
+                "address": "2900 - 550 BURRARD STREET, VANCOUVER, British Columbia, Canada V6C 0A3",
+                "client_number": "140016653"
+            },
+            "int_register_number": "10107400",
+            "converted_instrument_number": "77R24008",
+            "feature_number": "100034783",
+            "interest_assignment_date": "N/A",
+            "interest_scheduled_expiry_date": "N/A",
+            "expiry_date": "N/A"
+        },
+        {
+            "interest_number": "193465244",
+            "type": "CNV Easement",
+            "value": "N/A",
+            "registered": "24 Nov 1980 02:14:11",
+            "holder": {
+                "name": "Whitecap Resources Inc.",
+                "address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "client_number": "126791691"
+            },
+            "int_register_number": "101077411",
+            "converted_instrument_number": "80R51340",
+            "interest_assignment_date": "20 Dec 2017 09:20:58",
+            "interest_scheduled_expiry_date": "N/A",
+            "expiry_date": "N/A"
+        },
+        {
+            "interest_number": "193465255",
+            "type": "CNV Caveat",
+            "value": "N/A",
+            "registered": "23 Mar 1984 02:20:17",
+            "holder": {
+                "name": "Whitecap Resources Inc.",
+                "address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "client_number": "126791691"
+            },
+            "int_register_number": "101077411",
+            "converted_instrument_number": "80R51340",
+            "interest_assignment_date": "20 Dec 2017 09:20:58",
+            "interest_scheduled_expiry_date": "N/A",
+            "expiry_date": "N/A"
+        }
+    ]
+}

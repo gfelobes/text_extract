@@ -1,0 +1,72 @@
+{
+    "Interests": [
+        {
+            "Interest_Number": "193465121",
+            "Type": "CNV Caveat",
+            "Value": "N/A",
+            "Registered_Date": "24 Mar 1958 01:09:44",
+            "Interest_Register_Amendment_Date": "N/A",
+            "Interest_Assignment_Date": "N/A",
+            "Interest_Scheduled_Expiry_Date": "N/A",
+            "Expiry_Date": "N/A",
+            "Holder": {
+                "Name": "Saskatchewan Power Corporation",
+                "Address": "1739 Cornwall St, Regina, Saskatchewan, Canada",
+                "Client_Number": "100928235"
+            },
+            "Int_Register": "101078085",
+            "Converted_Instrument_Number": "FY4184"
+        },
+        {
+            "Interest_Number": "193465132",
+            "Type": "CNV Caveat",
+            "Value": "N/A",
+            "Registered_Date": "18 Apr 1958 00:32:34",
+            "Interest_Register_Amendment_Date": "N/A",
+            "Interest_Assignment_Date": "20 Dec 2017 09:20:55",
+            "Interest_Scheduled_Expiry_Date": "N/A",
+            "Expiry_Date": "N/A",
+            "Holder": {
+                "Name": "Whitecap Resources Inc.",
+                "Address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "Client_Number": "126791691"
+            },
+            "Int_Register": "101077310",
+            "Converted_Instrument_Number": "GB1954"
+        },
+        {
+            "Interest_Number": "193465143",
+            "Type": "CNV Easement",
+            "Value": "N/A",
+            "Registered_Date": "02 Jul 1963 01:45:23",
+            "Interest_Register_Amendment_Date": "N/A",
+            "Interest_Assignment_Date": "20 Dec 2017 09:20:55",
+            "Interest_Scheduled_Expiry_Date": "N/A",
+            "Expiry_Date": "N/A",
+            "Holder": {
+                "Name": "Whitecap Resources Inc.",
+                "Address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "Client_Number": "126791691"
+            },
+            "Int_Register": "101077321",
+            "Converted_Instrument_Number": "63R22559"
+        },
+        {
+            "Interest_Number": "193465154",
+            "Type": "CNV Easement",
+            "Value": "N/A",
+            "Registered_Date": "29 Aug 1963 01:45:32",
+            "Interest_Register_Amendment_Date": "N/A",
+            "Interest_Assignment_Date": "20 Dec 2017 09:20:56",
+            "Interest_Scheduled_Expiry_Date": "N/A",
+            "Expiry_Date": "N/A",
+            "Holder": {
+                "Name": "Whitecap Resources Inc.",
+                "Address": "Suite 3800, East Tower 525 - 8th Avenue SW, Calgary, Alberta, Canada T2P 1G1",
+                "Client_Number": "126791691"
+            },
+            "Int_Register": "101077321",
+            "Converted_Instrument_Number": "63R22559"
+        }
+    ]
+}

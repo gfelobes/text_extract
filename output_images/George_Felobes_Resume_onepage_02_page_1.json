@@ -1,0 +1,81 @@
+{
+    "name": "George Felobs",
+    "contact": {
+        "mobile": "+1 (780) 710-7095",
+        "email": "george.felobs@gmail.com",
+        "linkedin": "george-felobs"
+    },
+    "education": [
+        {
+            "degree": "M.Sc. Computer Science",
+            "institution": "Georgia Tech",
+            "specialization": "Computational Perception and Robotics",
+            "expected_graduation": "May 2025",
+            "gpa": 4.0
+        },
+        {
+            "degree": "B.Sc. in Mechanical (Biomedical) Engineering",
+            "institution": "University of Alberta",
+            "minor": "Mathematics",
+            "coop": "May 2021",
+            "cGPA": 3.9
+        }
+    ],
+    "skills": [
+        "Data Science and Machine Learning: Scikit-learn, TensorFlow, PyTorch, natural language processing using LLMs, PCA, t-SNE, regressions, neural networks, and statistical analysis (SPSS/JMP)",
+        "Programming and Scripting: Python, R, MATLAB, and VBA; experienced in Python Dash for web application development",
+        "Big Data and Cloud Technologies: Databricks and PySpark and utilizing AWS Sagemaker for running large models",
+        "Data Visualization and Management: Plotly Dash, Power BI, TIBCO Spotfire, and managing data historians (PI systems)",
+        "Numerical Simulation and Analysis: numerical physics simulations statistical analysis using R programming"
+    ],
+    "work_experience": [
+        {
+            "job_title": "Research Assistant",
+            "company": "Smart Infrastructure Technologies (SITE) Research Group",
+            "location": "University of Alberta, Remote",
+            "duration": "November 2022 - Current",
+            "responsibilities": [
+                "Working under Dr. Gavin Mei with publication in progress",
+                "Ameliorated Large Language Models (LLMs) for data extraction from engineering codes and standards and utilized natural language processing for generative structural engineering design using Python frameworks (Lang chains), and HuggingFace models",
+                "Developed Python scripts for data automation and machine learning, creating training datasets, fine-tuning language models for parametric design, and optimizing Grasshopper parametric environments using reinforcement learning algorithms"
+            ]
+        },
+        {
+            "job_title": "Advanced Process Control and Optimization EIT",
+            "company": "Cenovus Energy Inc., Calgary",
+            "duration": "June 2023 - Current",
+            "responsibilities": [
+                "Led the development of soft sensors (physics informed machine learning), achieving $6 million in savings by predicting reservoir pressure",
+                "Implemented advanced algorithms for data mining in high-cost data sets, using statistical techniques for data similarity and variability, and developing Python scripts using Databricks and PySpark",
+                "Developed a Python Dash-based dashboard for efficient database management in SAGD facilities and automated economic models, enhancing process control applications"
+            ]
+        },
+        {
+            "job_title": "Operations Production and Process Contact EIT",
+            "company": "Cenovus Energy Inc., Calgary",
+            "duration": "July 2022 - June 2023",
+            "responsibilities": [
+                "Developed data exploration methods for identifying inconsistencies in complex time series data within physics equations, managing data historians with millions of data points",
+                "Led projects in Operations and Production Engineering, focusing on process simulations and equipment designs, achieving $500K in EB spending savings, $700K annually from reduced Dilburn loss, and a 1.42% decrease in fuel consumption leading to about $2 million annual savings"
+            ]
+        },
+        {
+            "job_title": "Software EIT",
+            "company": "Cenovus Energy Inc., Calgary",
+            "duration": "May 2021 - June 2022",
+            "responsibilities": [
+                "Developed front-end Dash web applications, connecting data sources via PI-web-API, and creating analytics dashboards using Python Dash, Power BI, and TIBCO Spotfire",
+                "Successfully refactored and tested 10,000 lines of VBA code into Python, achieving a six-fold increase in execution speed",
+                "Implemented machine learning algorithms like PCA, t-SNE, regressions, and neural networks using open-source libraries, and running large models on AWS Sagemaker notebook instances"
+            ]
+        }
+    ],
+    "university_projects": [
+        "Built a multiagent reinforcement learning algorithm to solve various layouts of overcooked AI",
+        "Optimization of Covid-19 vaccine supply distribution using linear programming",
+        "Designed a vessel inspection and repair robot crawl ferromagnetic vessel walls",
+        "Mathematical and numerical modelling of a crankshaft using APDL programming",
+        "Internship, technology development, Cenovus Energy, 2020, NPV $5MM in savings",
+        "Internship, reliability engineering, Cenovus Energy, 2019, > $100K in savings"
+    ]
+}
